@@ -19,5 +19,6 @@ public class DemoCodeClass {
 
     public static void main(String[] args){
         System.out.println("git 操作练习!!!");
+        System.out.println("git 第二次提交!!!");
     }
 }
